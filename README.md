@@ -15,3 +15,7 @@
 - python
 - jupyter notbook (depends on python and reverse proxy)
 
+
+
+https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4
+
